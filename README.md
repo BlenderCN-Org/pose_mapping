@@ -1,6 +1,8 @@
 # Pose Mapping
 Blender addon to map poses by adding constraints.  
-ポーズをマッピングするBlenderアドオンです。
+ポーズを転写するBlenderアドオンです。標準機能のコンストレイントの設定の自動化です。  
+2つのアーマチュアのボーン位置を合わせることで、コンストレイントの設定を行います。  
+[Movie](https://www.youtube.com/watch?v=mSZ_HmwA3qk), [Download](https://fujisunflower.booth.pm/items/1883921)  
 ![Mapped](https://user-images.githubusercontent.com/20571538/75976601-17224180-5f1e-11ea-8819-d5a1d9a04b6f.png)  
 # How to Use
 ![Open preference](https://user-images.githubusercontent.com/20571538/75975469-eb05c100-5f1b-11ea-8e8f-c5c30a90dbd7.png)  
