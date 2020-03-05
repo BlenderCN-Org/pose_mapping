@@ -1,7 +1,7 @@
 # Pose Mapping
-Blender addon to map poses by adding constraints.
+Blender addon to map poses by adding constraints.  
+ポーズをマッピングするBlenderアドオンです。
 ![Mapped](https://user-images.githubusercontent.com/20571538/75976601-17224180-5f1e-11ea-8819-d5a1d9a04b6f.png)  
-
 # How to Use
 ![Open preference](https://user-images.githubusercontent.com/20571538/75975469-eb05c100-5f1b-11ea-8e8f-c5c30a90dbd7.png)  
 ![Install addon](https://user-images.githubusercontent.com/20571538/75975476-ee00b180-5f1b-11ea-8c06-1baa15ad8854.png)  
